@@ -1,0 +1,19 @@
+* Planning
+  In order to make the study and work more orgnized, we use bambam to manager our study.
+  Please go to the link below for task and project management.
+  https://nathanandnora.dobambam.com
+
+
+
+* Reference List For learning
+** Spark
+- http://spark.apache.org/
+- http://spark.apache.org/docs/latest/programming-guide.html
+
+** Cassandra
+
+
+** Python
+- https://www.python.org/
+- https://www.python.org/about/gettingstarted/
+- https://docs.python.org/devguide/setup.html
